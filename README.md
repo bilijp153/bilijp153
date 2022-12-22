@@ -14,7 +14,7 @@
 
 <hr>
 
-## Stats
+## 统计数据
 
 ![Aurora's github stats](https://github-readme-stats.vercel.app/api?username=bilijp153&show_icons=true&theme=tokyonight)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baio1977&show_icons=true&theme=tokyonight)
   
