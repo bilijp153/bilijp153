@@ -16,6 +16,6 @@
 
 ## 统计数据
 
-![Aurora's github stats](https://github-readme-stats.vercel.app/api?username=bilijp153&show_icons=true&theme=tokyonight)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilijp153&show_icons=true&theme=tokyonight)
+![极光的Github统计数据](https://github-readme-stats.vercel.app/api?username=bilijp153&show_icons=true&theme=tokyonight)- ![首选语言](https://github-readme-stats.vercel.app/api/top-langs/?username=bilijp153&show_icons=true&theme=tokyonight)
   
 </div>
