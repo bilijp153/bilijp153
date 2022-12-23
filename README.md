@@ -16,7 +16,7 @@
 
 ## 统计数据
 
-![极光的Github统计数据](https://github-readme-stats.vercel.app/api?username=bilijp153&locale=zh&mode=weekly)- ![首选语言](https://github-readme-stats.vercel.app/api/top-langs/?username=bilijp153&show_icons=true&theme=tokyonight)
+![极光的Github统计数据](https://github-readme-stats.vercel.app/api?username=bilijp153&show_icons=true&theme=default)- ![首选语言](https://github-readme-stats.vercel.app/api/top-langs/?username=bilijp153&show_icons=true&theme=default)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bilijp153&locale=zh&mode=weekly)](https://git.io/streak-stats)
   
 </div>
