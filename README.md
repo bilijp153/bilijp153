@@ -17,7 +17,7 @@
 ## 统计数据
 
 ![极光的Github统计数据](https://github-readme-stats.vercel.app/api?username=bilijp153&show_icons=true&theme=default)- ![首选语言](https://github-readme-stats.vercel.app/api/top-langs/?username=bilijp153&show_icons=true&theme=default)
- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=bilijp153&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=default&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilijp153&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=default&locale=cn" />  
+ <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=bilijp153&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=default&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilijp153&hide_title=true&hide_border=true&layout=compact&theme=default&locale=cn" />  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bilijp153&locale=zh&mode=weekly)](https://git.io/streak-stats)
   
 </div>
