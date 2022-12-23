@@ -18,7 +18,8 @@
 
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=bilijp153&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=default&locale=cn" /> 
-   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilijp153&hide_title=true&layout=compact&theme=default&locale=cn" />  
-  <img align="" height="137pxsrc="https://github-readme-streak-stats.herokuapp.com?user=bilijp153&locale=zh&mode=weekly/>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilijp153&hide_title=true&layout=compact&theme=default&locale=cn" />  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bilijp153&locale=zh&mode=weekly)](https://git.io/streak-stats)
 
 </div>
