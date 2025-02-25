@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Aurora极光](https://github.com/bilijp153)
+# [极光呆呆脑](https://github.com/bilijp153)
 
    
 [![](https://img.shields.io/badge/哔哩哔哩-极光呆呆脑-informational?logo=bilibili&logoColor=pink&color=5fb659&style=social)](https://space.bilibili.com/329351708?spm_id_from=333.337.0.0)
